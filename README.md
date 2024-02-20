@@ -1,1 +1,1 @@
-# Restaurant-table-booking
+# Little Lemon Capstone Project
